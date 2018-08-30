@@ -3,8 +3,10 @@
     "name": "Aaron Geronimo",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "aaronj9@hawaii.edu",
-    "email": "ajgeronimo96@gmail.com",
+    "email": [
+      "aaronj9@hawaii.edu",
+      "ajgeronimo96@gmail.com"
+      ],
     "phone": "808-398-6098",
     "website": "https://aaronjgeronimo.github.io",
     "summary": "I am studying Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020 with a Bachelor of Science",
