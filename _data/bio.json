@@ -25,24 +25,14 @@
         "username": "Aaron Geronimo",
         "url": "https://www.linkedin.com/in/aaron-geronimo-66052716a/"
       },
-      {
-        //"network": "twitter",
-        //"username": "mollymal",
-        //"url": "http://twitter.com/changeme"
-      },
-      {
-        //"network": "instagram",
-        //"username": "molly",
-        //"url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
       "name": "Cars",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Engine Manangement",
+        "Performance Improvement"
       ]
     },
     {
@@ -50,11 +40,6 @@
       "keywords": [
       ]
     },
-    {
-      //"name": "artificial intelligence",
-      //"keywords": [
-      ]
-    }
   ],
   "skills": [
     {
@@ -69,13 +54,22 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Win10",
+        "Elcipse",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "JSFiddle"
       ]
-    }
+    },
+    {
+       "name": "other skills",
+       "level": "",
+       "keywords": [
+         "metal fabrication",
+         "MIG/TIG welding",
+         "CAD",
+       ]
+     }
   ],
   "education": [
     {
@@ -121,7 +115,7 @@
       "position": "Inter-Club representative",
       "startDate": "2014-03-08",
       "endDate": "Present",
-      "summary": "Effectively communicate and relay information from other car clubs",
+      "summary": "Communicate and relay information to and from other car clubs",
       "highlights": [
        
       ]
