@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Saleen.jpg
 title: Saleen Series 6
 permalink: projects/SaleenSeries6
 # All dates must be YYYY-MM-DD format!
