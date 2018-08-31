@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/connect4.png
 title: Connect Four
 permalink: projects/connectfour
 # All dates must be YYYY-MM-DD format!
@@ -11,8 +11,6 @@ labels:
   - Elcipse
 summary: My first game.
 ---
-
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
 As a final project for ICS 111, we were tasked with creating a game using Elcipse to write a java program. We were grouped in three's, which unfortunately turned into a pair for me and my partner as our third member seldom showed up to class. 
 
