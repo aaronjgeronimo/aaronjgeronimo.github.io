@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/MicroITX.jpg
 title: Small and Mighty 
 permalink: projects/SmallandMighty
 # All dates must be YYYY-MM-DD format!
