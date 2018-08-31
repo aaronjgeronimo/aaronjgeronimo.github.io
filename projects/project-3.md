@@ -7,8 +7,8 @@ permalink: projects/connect4
 # All dates must be YYYY-MM-DD format!
 date: 2015-10-12
 labels:
-  - Lisp
-  - GitHub
+  - Eclipse
+  - Java
 summary: My first game.
 ---
 
