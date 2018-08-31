@@ -3,14 +3,14 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Saleen Series 6
-permalink: projects/Saleen
+permalink: projects/SaleenSeries6
 # All dates must be YYYY-MM-DD format!
 date: 2016-07-29
 labels:
   - Cars
   - CAD
   - Fabrication
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: Installation of a discontinued supercharger on a 2007 Mustang GT.
 ---
 
 <div class="ui small rounded images">
