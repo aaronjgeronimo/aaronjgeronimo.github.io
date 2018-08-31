@@ -1,11 +1,11 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/connect4.png
+title: Connect4
+permalink: projects/connect4
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2015-10-12
 labels:
   - Lisp
   - GitHub
