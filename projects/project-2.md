@@ -9,7 +9,7 @@ date: 2017-10-05
 labels:
   - Computer
   - Hardware
-summary: The most powerful MiniITX computer for as cheap as possible.
+summary: A small desktop computer that packs a punch.
 ---
 
 With a computer centric major, I decided it was time to build a good pc. I wanted a robust PC that could do anything that i needed, but i wanted it to be small and not break the bank. I set out to build a mini ITX computer, that could run 2 monitors, be almost completely silent, and be able to sit on the top of my desk without taking up an excess amount of desk space. 
