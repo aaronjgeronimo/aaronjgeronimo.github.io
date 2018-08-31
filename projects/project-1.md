@@ -13,7 +13,7 @@ labels:
 summary: Installation of a discontinued supercharger on a 2007 Mustang GT.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/IMG_2987.png">
+<img class="ui image" src="{{ site.baseurl }}/images/IMG_2987.PNG">
 
 Saleen produced its series 6 supercharger for the 05-10 mustang gt's which were equipped with a 4.6 liter engine with 3 valves per cylinder. The series 6 supercharger was discontinued in mid-2011 with the introduction of the 5.0 liter 4 valves per cylinder engine that replaced the old 4.6. In March of 2016, a series 6 was being auctioned during a car show at a local dealership which I was in attendance. I bid and won the auction, but found out that none of the other components needed for installation were included with the purchase, nor did the dealership have it. After speaking to Saleen and other authorized dealers, I found that the series 6 was discontinued for some time and that the necessary components to install the supercharger would be near impossible to find. Thus began the 2 month long project .
 
