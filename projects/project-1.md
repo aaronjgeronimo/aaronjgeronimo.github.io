@@ -10,7 +10,7 @@ labels:
   - Cars
   - fabrication
   - CAD
-summary: Designed and developed one-off custom parts to fit and install a discontinued supercharger on a 2007 Mustang GT.
+summary:Installation of a discontinued supercharger on a 2007 Mustang GT.
 ---
 
 <div class="ui small rounded images">
@@ -20,9 +20,9 @@ summary: Designed and developed one-off custom parts to fit and install a discon
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Saleen produced its series 6 supercharger for the 05-10 mustang gt's which were equuipped with a 4.6 litre engine with 3 valves per cylinder. The series 6 supercharger was discontinued in mid-2011 with the introduction of the 5.0 litre 4 valves per cylinder engine that replaced the old 4.6. In March of 2016, a series 6 was being auctioned during a carshow at a local dealership which I was in attendance. I bid and won the auction, but found out that none of the other components needed for installation were included with the purchase, nor did the dealership have it. After speaking to Saleen and other authorized dealers, i found that the series 6 was discontiued for some time and that the necessary components to install would be near impossible to find. Thus began the 2 month long project.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+For this project, I designed the needed components and with the help of Universal Engineering, was able to develop one-off components to continue installation. For various other components, readily available parts for varying other vehicles were repurposed for this project. I wired in a new fuse box which housed the relays to control an electric water pump, low speed radiator fan and high speed radaitor fan to aid in cooling. I routed battery cables through the passenger compartment to relocate the battery to the rear of the vehicle. I then designed a cooling loop for the supercharger that utilized the space that was previously occupied by the battery. Once the Series 6 was installed. I installed a more robust fuel system to provide enough fuel when the supercharger starts porviding possitive pressure in the combustion chambers. I retuned the engine with the help of an Engine tuning specialist from South America. The Mustang was then brought to a dynomometer which measures the power output at the rear wheels of a vehicle. 427 horsepower and 387 foot pounds of torque was measured, an increase of 42% for horsepower and 21% for torque from before the start of the project.  
 
 Here is some code that illustrates how we read values from the line sensors:
 
@@ -38,7 +38,7 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+This is currently an ongoing project of mine, always finding ways to increase the output of the engine, improve the handling of the vehicle, or going back to improve things as I myself improve my skills. 
 
 
 
