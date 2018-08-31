@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Saleen Series 6
-permalink: projects/micromouse
+permalink: projects/Saleen
 # All dates must be YYYY-MM-DD format!
 date: 2016-07-29
 labels:
