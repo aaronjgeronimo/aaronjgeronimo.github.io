@@ -1,12 +1,11 @@
 ---
 layout: essay
 type: essay
-title: Reflect on JavaScript
+title: Reflecting on JavaScript
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-31
 labels:
   - Software Engineering
-  - Learning
   - JavaScript
 ---
 
