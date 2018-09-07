@@ -9,4 +9,4 @@ labels:
   - Questions
 ---
 
-The internet has multitudes of resources when you come across a problem for which you have a lack of knowledge to answer it and seek the help of others to answer it. Forums are a good place to start. However, people can't read your mind, and sometimes the question being asked does not elicit an answer that actually answers the question. If thats the case, we need to step back and ask our selves did we ask a smart question? 
+The internet has no lack of resources when you come across a problem for which you have a lack of knowledge to answer it and seek the help of others. Forums are a good place to start. However, people can't read your mind, and sometimes the question being asked does not elicit an answer that actually answers the question. If thats the case, we need to step back and ask our selves did we ask a smart question? 
