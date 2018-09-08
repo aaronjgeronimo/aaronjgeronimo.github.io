@@ -22,7 +22,7 @@ This particular question on stackoverflow is a good example of a smart question.
 
 ## [Not This](https://stackoverflow.com/questions/52226238/my-splash-screen-keeps-on-crashing-and-force-closing-the-app)
 
-With this question on stack overflow, there seems to be no particular problem with the header. However, once the thread is opened, you can immediately see the question lacks details and does not provide enough information to completely understand what is being asked, and therefore does not enable others to provide a sufficient answer. Though source code is provided, "My app keeps crashing on startup" and "please check my code" are the only two relevant details in this question submitted by the original poster. The first reply to the question is a link to "how do i ask a good question?". 
+With this question on stackoverflow, there seems to be no particular problem with the header other than it being slightly vague. However, once the thread is opened, you can immediately see the question lacks details and does not provide enough information to completely understand what is being asked, and therefore does not enable others to provide a sufficient answer. Though source code is provided, "My app keeps crashing on startup" and "please check my code" are the only two relevant details in this question submitted by the original poster. The first reply to the question is a link to "how do i ask a good question?". 
 
 ## Insights and Importance
 
