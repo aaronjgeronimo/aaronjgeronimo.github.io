@@ -16,7 +16,7 @@ The internet has no lack of resources when you come across a problem. Forums are
 
 A smart question is 
 
-## Like this:
+## [Like This](https://stackoverflow.com/questions/52092194/reading-the-output-of-pythons-memory-profiler)
 
 ## Not this:
 
