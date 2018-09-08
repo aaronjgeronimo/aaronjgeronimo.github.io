@@ -24,5 +24,8 @@ This particular question on stackoverflow is a good example of a smart question.
 
 With this question on stack overflow, there seems to be no particular problem with the header. However, once the thread is opened, you can immediately see the question lacks details and does not provide enough information to completely understand what is being asked, and therefore does not enable others to provide a sufficient answer. Though source code is provided, "My app keeps crashing on startup" and "please check my code" are the only two relevant details in this question submitted by the original poster. The first reply to the question is a link to "how do i ask a good question?". 
 
+## Insights and Importance
+
+After looking through stackoverflow and seeing examples of smart questions and not so smart questions. I can see that asking questions the smart way usually elicits a far better answer. The answers of smart questions were usually more informative and short, but packed with details specific to the question. In cases of not so smart questions, the answers were far more long winded, and far less specific to the question. Some weren't even answers to the questions, some replies were more questions about the original question when a lack of details were provided. Asking a question the smart way is important from a Software Engineering standpoint because asking a question and having a quick and relative answer makes solving the problem easier and faster. Instead of recieving more questions about the problem, or recieving wrong answers. Asking a specific question with as many details as possible the first time around, will save time and effort. 
 
 
