@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Reflecting on JavaScript
+title: Javascript
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-31
 labels:
