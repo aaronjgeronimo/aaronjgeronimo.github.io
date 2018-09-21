@@ -13,7 +13,7 @@ labels:
 
 <img class="ui image" src="{{ site.baseurl }}/images/ShoppingCart.jpg">
 
-## Do you remember?
+## This seems familiar.
 
 Picture this, you’re 8 years old and you go to the grocery store with your parents. You are now old enough, and tall enough to reach the handle of the cart. Your parents enter the store with you in tow. You feel great, you feel more mature, you feel almost like a grown up, carrying the responsibility of pushing the cart. Then almost as soon as you enter, they grab the cart by the front corner and start pulling the cart in the direction they want to go. You feel insulted and wonder “Am i not old enough to do this by myself?” “I can do this on my own without your help” you say in your head, but have been taught to not talk back to your parents. 
 
