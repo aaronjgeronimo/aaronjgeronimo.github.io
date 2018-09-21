@@ -31,6 +31,6 @@ A coding standard that everyone adheres by will help when coding larger projects
 
 ## Leaving the store.
 
-Though I already have an opinion on coding standards after only a week of using ESLint, I’m sure it will change the more I use it, and the more familiar I become with the standard. Does it make it easier to learn a programming language? Maybe. Will it make coding easier in the long run? Only time will tell. But i’m sure, just like your parents pulling the cart along, you’ll appreciate it later on.
+Though I already have an opinion on coding standards after only a week of using ESLint. I’m sure it will change the more I use it and the more familiar I become with the standard. Does it make it easier to learn a programming language? Maybe. Will it make coding easier in the long run? Only time will tell. But i’m sure, just like your parents pulling the cart along, you’ll appreciate it later on.
 
 
