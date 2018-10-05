@@ -10,6 +10,8 @@ labels:
   - Semantic UI
 ---
 
+<img class="ui image" src="{{ site.baseurl }}/images/Bike-vs-car.jpg">
+
 Let’s say that you need to run errands. You have a choice to either ride a bicycle, or use a car. On one hand, the bicycle is simpler, you are not required to have a license to ride one, and runs on whatever you had for lunch. But, you have limited cargo capacity and range. On the other hand with a car, you have a far larger capacity for cargo and can run errands that are much farther away. Only downside here is you need a license, and need to buy gas. For some people, especially those who live in town where most things are closer to them, it would make more sense to to use a bicycle. For others it makes more sense to use the car. But even for those who live in town, at some point, they too will have a need for a car. 
 
 ## Pedal Power
