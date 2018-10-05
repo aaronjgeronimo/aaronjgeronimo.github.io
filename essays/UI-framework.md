@@ -19,3 +19,11 @@ Raw HTML and CSS is like a bicycle. Due to its simplicity, it’s easy to design
 ## Piston Power
 
 Semantic UI is like a car, better used for more complex web pages that have much more going on on them. Just like learning to drive, then getting your license. Learning to use Semantic UI requires work, maybe at some point you’ll even think “i should’ve just stuck with raw HTML”. But rest assured. Once you get your license, you’ll start to prefer the car. Learning to use semantic effectively is fairly difficult, understanding what each element, collection, and modules does can be frustrating. Implementing these into the code can be even more so. But once you get the hang of it, it’s well worth the effort to learn. 
+
+## Power is Addicting
+
+Once you get a feel for semantic, going back to raw HTML will never be the same. The same web page that would take 40 minutes to design using semantic, I don’t even think I can fathom how long it would take with raw HTML. Not to mention it would probably not look, nor function as good. If my commute was more than 5 miles, and I got a licence and a car, you can bet I wouldn’t use the bike to commute anymore. 
+
+## But.. 
+
+Don’t get me wrong, i’m not saying that raw HTML is inferior to semantic, or a bicycle is inferior to a car. For different situations, the choice would be different. But taking the time to learn semantic is much better than not learning it at all. What do you get in return for your time and frustration? A very solid plan to fall back on. Because more than likely, what you can’t do with raw HTML, you can do with semantic. Just like having a car on hand for when its too far, or you need to carry more than what you can with your bicycle. 
