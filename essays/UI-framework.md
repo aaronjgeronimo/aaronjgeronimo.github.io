@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Hmm, use the car, or ride the bike today? 
+title: Hmm, Use the car or ride the bike? 
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-04
 labels:
