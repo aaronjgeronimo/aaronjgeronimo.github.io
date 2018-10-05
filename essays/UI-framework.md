@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Essay
+title: Hmm, use the car, or ride the bike today? 
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-04
 labels:
@@ -20,7 +20,7 @@ Raw HTML and CSS is like a bicycle. Due to its simplicity, it’s easy to design
 
 ## Piston Power
 
-Semantic UI is like a car, better used for more complex web pages that have much more going on on them. Just like learning to drive, then getting your license. Learning to use Semantic UI requires work, maybe at some point you’ll even think “i should’ve just stuck with raw HTML”. But rest assured. Once you get your license, you’ll start to prefer the car. Learning to use semantic effectively is fairly difficult, understanding what each element, collection, and modules does can be frustrating. Implementing these into the code can be even more so. But once you get the hang of it, it’s well worth the effort to learn. 
+Semantic UI is like a car, better used for more complex web pages that have much more going on on them. A far more powerful platform to use. But great power comes great responsibility. Just like learning to drive, then getting your license. Learning to use Semantic UI requires work, maybe at some point you’ll even think “I should’ve just stuck with raw HTML”. But rest assured. Once you get your license, you’ll start to prefer the car. Learning to use semantic effectively is fairly difficult, understanding what each element, collection, and modules does can be frustrating. Implementing these into the code can be even more so. But once you get the hang of it, it’s well worth the effort to learn. 
 
 ## Power is Addicting
 
