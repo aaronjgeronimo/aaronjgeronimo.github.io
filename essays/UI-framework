@@ -1,0 +1,12 @@
+---
+layout: essay
+type: essay
+title: Essay
+# All dates must be YYYY-MM-DD format!
+date: 2018-10-04
+labels:
+  - HTML
+  - CSS
+  - Semantic UI
+---
+
