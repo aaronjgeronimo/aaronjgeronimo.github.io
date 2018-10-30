@@ -24,8 +24,10 @@ Solution: Design an app that makes it easier for users to report problems, and e
 - Admin problem list page
 
 ## Case Ideas:
-- user opens landing page, opens report page, reports a problem and pins where problem is on map page. 
+- User opens landing page, opens report page, reports a problem and pins where problem is on map page. 
 - Admin opens landing, logs in via admin login link, views list of reported problems, can mark completed/important/fix asap, view number of reports on map. 
 
 ## Beyond the basics:
 - Improves UH Manoa
+- Less downtime for facilities
+- Gets students more involved
