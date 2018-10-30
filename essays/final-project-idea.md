@@ -15,7 +15,7 @@ Problem: There are many problematic facilities(i.e bathrooms, classrooms, etc) o
 Solution: Design an app that makes it easier for users to report problems, and easier for admins to organize and prioritize which ones to solve first. 
 
 ## Mock up page ideas:
-- Landing page *live news feed on landing page*
+- Landing page with *live news feed on landing page*
 - User report page
 - User map page
 - User "what you can do to help" page
