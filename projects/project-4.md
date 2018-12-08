@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/connect4.png
+image: images/Github_Homepage.png
 title: StudBudd
 permalink: projects/StudBudd
 # All dates must be YYYY-MM-DD format!
@@ -13,3 +13,6 @@ labels:
   - React
 summary: First Webapp
 ---
+
+<img class="ui image" src="{{ site.baseurl }}/images/Github_Homepage.png">
+<img class="ui image" src="{{ site.baseurl }}/images/StudBudd2.png">
