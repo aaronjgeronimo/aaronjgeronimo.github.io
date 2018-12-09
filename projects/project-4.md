@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/StudBudd3.png
+image: images/StudBudd_badge.png
 title: StudBudd
 permalink: projects/StudBudd
 # All dates must be YYYY-MM-DD format!
@@ -17,7 +17,7 @@ summary: First Webapp
 
 # Why Studbudd?
 
-This project was the final project for ICS 314, from a list of possible projects to undertake. Groups were formed by prefference of who to work with and what project was preffered by the group members. Four other students and myself were assigned "Study Buddy", which for our project was renamed Studbudd.
+This project was the final project for ICS 314, from a list of possible projects to undertake. Groups were formed by preference of who to work with and what project was prefered by the group members. Four other students and myself were assigned "Study Buddy", which for our project was renamed Studbudd.
 
 ## The Objective
 
@@ -39,15 +39,15 @@ The Student Listing page displays a list of all the students who have made accou
 
 <img class="ui image" src="{{ site.baseurl }}/images/User_Profile.png">
 
-Viewing a students profile shows their availability and what subject they need help in. This makes planing group study sessions with others, and as a mentor, finding a student who needs help easier. Users are also able to apply to be a mentor, to offer help in subjects that they are proficient in while being able to still recieve help in subjects they are not. Users who are granted an admin role have hte ability to edit and/or delete mentor and student profiles if need be. 
+Viewing a students profile shows their availability and what subject they need help in. This makes planning group study sessions with others, and as a mentor, finding a student who needs help easier. Users are also able to apply to be a mentor, to offer help in subjects that they are proficient in while being able to still recieve help in subjects they are not. Users who are granted an admin role have the ability to edit and/or delete mentor and student profiles if need be. 
 
-The project was split in to 3 milestones, with each group memebr assigned a different tasks to distribute the project evenly. In milestone 1, I was tasked with creating a visually appealing logo for our page, and creating a footer that included functional links to other sites, and the "about us" for the page. In milestone 2, I was tasked with adding functionality to the students listing page, adding dynamic updating to the homepage and cleaning up the content, and updating the projects github.io. In milestone 3, I was tasked with finalizing the styling for the Studbudd pages, editing the layout for the edit and add pages for existing users, and adding a direct way for new users to edit their profile as soon as they sign up. 
+The project was split in to 3 milestones, with each group member assigned a different tasks to distribute the project evenly. In milestone 1, I was tasked with creating a visually appealing logo for our page, and creating a footer that included functional links to other sites, and the "about us" for the page. In milestone 2, I was tasked with adding functionality to the students listing page, adding dynamic updating to the homepage and cleaning up the content, and updating the projects github.io. In milestone 3, I was tasked with finalizing the styling for the Studbudd pages, editing the layout for the edit and add pages for existing users, and adding a direct way for new users to edit their profile as soon as they sign up. 
 
 ## What I took away from this project
 
-This was easily one of the more intense group projects that I have worked on. The goal for the final project was to have students utilize all the new knowledge of coding acquired over the course of the semester and put them all into one project and have the project driven by issue-based management. Having the project split up by issues forced my group members and myself to find a way to work together fluently as to not stop each other from finishing our assigned tasks, especially those tasks that relied on another person to finsih theirs first. This also allowed each member to work on issues that were more suitable for their strengths and made the project go by smoother. This project taught me how to work in a group better and how to drive a project with issue-based management to utilize each memebers strengths. 
+This was easily one of the more intense group projects that I have worked on. The goal for the final project was to have students utilize all the new knowledge of coding acquired over the course of the semester and put them all into one project and have the project driven by issue-based management. Having the project split up by issues forced my group members and myself to find a way to work together fluently as to not stop each other from finishing our assigned tasks, especially those tasks that relied on another person to complete their task first. This also allowed each member to work on issues that were more suitable for their strengths and made the project go by smoother. This project taught me how to work in a group better and how to drive a project with issue-based management to utilize each members strengths. 
 
-## The finsihed* project
+## The finished* project
 
 To view source code for Studbudd and to learn more about the project, the github organization page can be found [here](https://studbudd.github.io/).
 
