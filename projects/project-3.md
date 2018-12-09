@@ -9,7 +9,7 @@ date: 2015-10-12
 labels:
   - Eclipse
   - Java
-summary: My first game.
+summary: Working with a partner to develop a functional java based connect4 game.
 ---
 
 As a final project for ICS 111, we were tasked with creating a game using Elcipse to write a java program. We were grouped in three's, which unfortunately turned into a pair for me and my partner as our third member seldom showed up to class. 
