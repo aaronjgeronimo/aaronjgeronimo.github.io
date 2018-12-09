@@ -39,7 +39,14 @@
       "name": "Self-Learning Systems",
       "keywords": [
       ]
-    }
+    },
+     {
+      "name": "User Interface",
+      "keywords": [
+        "Visual Design",
+        "Front-end coding"
+      ]
+    },
   ],
   "skills": [
     {
@@ -47,7 +54,9 @@
       "level": "",
       "keywords": [
         "Java",
-        "Javascript"
+        "Javascript",
+        "Semantic UI",
+        "Meteor"
       ]
     },
     {
@@ -59,13 +68,14 @@
         "Git/GitHub",
         "g++",
         "JSFiddle"
+        "InteliJ"
       ]
     },
     {
        "name": "other skills",
        "level": "",
        "keywords": [
-         "metal fabrication",
+         "Metal fabrication",
          "MIG/TIG welding",
          "CAD"
        ]
