@@ -36,15 +36,16 @@
       ]
     },
     {
-      "name": "Self-Learning Systems",
+      "name": "Machine Learning",
       "keywords": [
+        "Auto-pilot",
+        "MAF based fuel injection"
       ]
     },
      {
       "name": "User Interface",
       "keywords": [
         "Visual Design",
-        "Front-end coding"
       ]
     },
   ],
