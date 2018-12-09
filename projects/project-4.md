@@ -11,7 +11,7 @@ labels:
   - Javascript
   - Meteor
   - React
-summary: First Webapp
+summary: A webapp that encourages studying by making it easier to find a mentor or other people to study with.
 ---
 <img class="ui image" src="{{ site.baseurl }}/images/StudBudd2.png">
 
