@@ -29,9 +29,15 @@ The objective of Studbudd is to provide users with an intuitive and visually app
 
 On the Studbudd homepage, visitors are greeted with instructions on how to use the app and a list of the top three mentors. In the navbar, visitors can have a look at a list of classes. Clicking a listed class will display mentors that are proficient in that field of study. In the top right, visitors can sign up for an account in which they will be granted access to more features. Once signed in, users now have access to a listing of other students and a listing of availabilities. In the student listing, the user can click to view other profiles and plan group study sessions with others who need help in the same subject and have similar avalibilities.  Users are also able to apply to be a mentor, to offer help in subjects that they are proficient in while being able to still recieve help in subjects they are not. Users who are granted an admin role have hte ability to edit and/or delete mentor and student profiles if need be. 
 
+The project was split in to 3 milestones, with each group memebr assigned a different tasks to distribute the project evenly. In milestone 1, I was tasked with creating a visually appealing logo for our page, and creating a footer that included functional links to other sites, and the "about us" for the page. In milestone 2, I was tasked with adding functionality to the students listing page, adding dynamic updating to the homepage and cleaning up the content, and updating the projects github.io. In milestone 3, I was tasked with finalizing the styling for the Studbudd pages, editing the layout for the edit and add pages for existing users, and adding a direct way for new users to edit their profile as soon as they sign up. 
+
 ## What I took away from this project
 
-This was easily one of the more intense group projects that I have worked on. The goal for the final project was to have students utilize all the new knowledge of coding acquired over the course of the semester and put them all into one project and have the project driven by issue-based management. 
+This was easily one of the more intense group projects that I have worked on. The goal for the final project was to have students utilize all the new knowledge of coding acquired over the course of the semester and put them all into one project and have the project driven by issue-based management. Having the project split up by issues forced my group members and myself to find a way to work together fluently as to not stop each other from finishing our assigned tasks, especially those tasks that relied on another person to finsih theirs first. This also allowed each member to work on issues that were more suitable for their strengths and made the project go by smoother. This project taught me how to work in a group better and how to drive a project with issue-based management to utilize each memebers strengths. 
+
+## The finsihed* project
+
+To view source code for Studbudd and to learn more about the project, thee github organization page can be found [here](https://studbudd.github.io/).
 
 
 
