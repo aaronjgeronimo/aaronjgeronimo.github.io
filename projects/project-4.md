@@ -37,7 +37,7 @@ This was easily one of the more intense group projects that I have worked on. Th
 
 ## The finsihed* project
 
-To view source code for Studbudd and to learn more about the project, thee github organization page can be found [here](https://studbudd.github.io/).
+To view source code for Studbudd and to learn more about the project, the github organization page can be found [here](https://studbudd.github.io/).
 
 
 
