@@ -86,11 +86,11 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2020)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2014-09-01",
       "endDate": "2020-05-16",
-      "gpa": "",
+      "gpa": "3.08",
       "courses": [
       ]
     }
